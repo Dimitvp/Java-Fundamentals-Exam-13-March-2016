@@ -3,6 +3,6 @@
  */
 public class Problem1ArrangeIntegers {
     public static void main(String[] args) {
-        
+
     }
 }
